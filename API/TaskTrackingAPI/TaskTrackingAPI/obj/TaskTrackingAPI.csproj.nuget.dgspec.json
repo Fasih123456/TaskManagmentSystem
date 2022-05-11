@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj": {}
+    "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj": {
+    "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj",
         "projectName": "TaskTrackingAPI",
-        "projectPath": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj",
+        "projectPath": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj",
         "packagesPath": "C:\\Users\\czxwcexwce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\obj\\",
+        "outputPath": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\czxwcexwce\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.19, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "RQY3M2AY3RIBNaSqFNX7LXcBXKXUpp0bbkSnqIqGrJzDmPjMGnNJjct0A/1FYEIf1mkdnACaDkNdLvFemD4L0A==",
+  "dgSpecHash": "c2yD8wqiayhnFfEqmx2G6j//KniPdr/C1quBZmKc2rl2GMaYAsl/sPaDR/taC1ZP9jZCxykrX1rF7a/IfwyHrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\czxwcexwce\\OneDrive\\Desktop\\Study Projects\\TaskManagmentSystem\\TaskManagmentSystem\\API\\TaskTrackingAPI\\TaskTrackingAPI\\TaskTrackingAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czxwcexwce\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.19\\microsoft.aspnetcore.jsonpatch.3.1.19.nupkg.sha512",
+    "C:\\Users\\czxwcexwce\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.19\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.19.nupkg.sha512",
+    "C:\\Users\\czxwcexwce\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\czxwcexwce\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\czxwcexwce\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
