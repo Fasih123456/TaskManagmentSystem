@@ -5,13 +5,15 @@ using System.Threading.Tasks;
 
 namespace TaskTrackingAPI.Models
 {
-    public class Task
+    public class TaskClass
     {
         public int TaskId { get; set; }
 
         public string TaskDate { get; set; }
 
         public string Day { get; set; }
+
+        public string Course { get; set; }
 
         public string TaskName { get; set; }
 
